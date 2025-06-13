@@ -13,14 +13,7 @@ tech_stack:
   backend: "Java, Spring Boot"
   frontend: "React, HTML, CSS, JavaScript"
   database: "PostGreSQL"
-
-installation:
-  - Clone the repository: git clone https://github.com/AjitSaha/Blood-Donation-Management-System.git
-  - Import into Eclipse or preferred IDE
-  - Set up MySQL database with provided schema
-  - Configure Hibernate settings for DB connection
-  - Run the server and access via browser
-
+  
 usage:
   - Register as a donor or recipient
   - View and update availability
